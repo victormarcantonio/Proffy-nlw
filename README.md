@@ -2,8 +2,8 @@
 Aplicação desenvolvida durante a Next Level Week da RocketSeat utilizando Node, React e React-Native
 
 <img src="img.PNG">
-<img src="img2.PNG" height="40" width="40">
-<img src="img3.PNG" height="40" width="40">
+<img src="img2.PNG">
+<img src="img3.PNG">
 
 
 Tecnologias utilizadas:  
